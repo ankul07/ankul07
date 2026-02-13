@@ -175,15 +175,15 @@ Features:
 
 ### 🎯 **Master of Computer Applications (MCA)**
 
-_Graphic Era Hill University, Uttarakhand_  
-**2023 - 2025** | CGPA: 8.5/10
+_University of Petroleum Energy And Studies, Uttarakhand_  
+**2023 - 2025** | CGPA: 7.5/10
 
 **Relevant Coursework:** Data Structures, Algorithms, Database Management Systems, Web Technologies, Cloud Computing
 
 ### 🎓 **Bachelor of Computer Applications (BCA)**
 
 _Hemwati Nandan Bahuguna Garhwal University_  
-**2020 - 2023** | Percentage: 75%
+**2020 - 2023** | Percentage: 78%
 
 **Major:** Computer Science & Applications
 
